@@ -1,0 +1,7 @@
+{
+  "name": "grpc-nest-proto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ko-GyeongTae",
+  "license": "MIT"
+}
